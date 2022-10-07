@@ -1,0 +1,18 @@
+body{
+    background-color:white;
+    }
+hr{
+    height:0px;
+    width:5%;
+    align-items: center;
+    border-style:  none;
+    border-top-style: dotted;
+    border-width: thick;
+    border-color:grey;
+    }
+h1, h2{
+    color:aqua;
+}
+p{
+    color:cadetblue;
+}
